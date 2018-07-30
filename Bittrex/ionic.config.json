@@ -1,0 +1,8 @@
+{
+  "name": "Bittrex",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "ab1ff998"
+}

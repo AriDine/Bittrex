@@ -1,8 +1,0 @@
-{
-  "name": "bittrex",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular",
-  "pro_id": "8cc97de9"
-}
